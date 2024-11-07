@@ -1,1 +1,1 @@
-This a bot control aplication.
+This is  a bot control aplication.
